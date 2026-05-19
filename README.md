@@ -10,7 +10,7 @@ A complete, up-to-date overview of **Multilogin pricing**, subscription tiers, i
 
 - [How Multilogin Pricing Works](#how-multilogin-pricing-works)
 - [Add-ons and Pay-as-you-go Rates](#add-ons-and-pay-as-you-go-rates)
-- [Multilogin Trial — 3-day trial for €1.99](#multilogin-trial--3-day-trial-for-199)
+- [Multilogin Trial — 3-day trial for $2](#multilogin-trial--3-day-trial-for-2)
 - [Multilogin Pro 10 — 10 profiles](#multilogin-pro-10--10-profiles)
 - [Multilogin Pro 50 — 50 profiles](#multilogin-pro-50--50-profiles)
 - [Multilogin Pro 100 — 100 profiles](#multilogin-pro-100--100-profiles)
@@ -57,24 +57,24 @@ Key pricing principles:
 
 | Add-on          | Rate                  | Notes                                                   |
 | --------------- | --------------------- | ------------------------------------------------------- |
-| Proxy Traffic   | **€3 per 1 GB**       | Premium residential proxies. Unused traffic rolls over. |
-| Mobile Minutes  | **€0.0075 per minute**| Pay only for time used. Unused minutes roll over.       |
+| Proxy Traffic   | **$3 per 1 GB**       | Premium residential proxies. Unused traffic rolls over. |
+| Mobile Minutes  | **$0.0075 per minute**| Pay only for time used. Unused minutes roll over.       |
 
-> ⏱ **Cloud phones** are billed separately at **€0.0075 per minute**. The timer starts when you launch the device and stops when you press Stop.
+> ⏱ **Cloud phones** are billed separately at **$0.0075 per minute**. The timer starts when you launch the device and stops when you press Stop.
 
 ---
 
-## Multilogin Trial — 3-day trial for €1.99
+## Multilogin Trial — 3-day trial for $2
 
 **Multilogin Trial** is a 3-day paid trial designed for users who want to test the full Multilogin antidetect browser and cloud phone platform before committing to a monthly or annual subscription.
 
-- **Price:** €1.99 for 3 days (one-time payment)
+- **Price:** $2 for 3 days (one-time payment)
 - **Browser profiles included:** 5
 - **Proxy traffic included:** 200 MB (one-time allowance)
 - **Mobile minutes included:** 60 (one-time allowance)
 - **API access:** Yes
 - **Team seats:** Not included
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 
 The Multilogin Trial gives you full access to all core features including bulk profile operations, API automation, and Android cloud phones. It is the cheapest way to evaluate Multilogin before choosing a paid subscription.
 
@@ -84,14 +84,14 @@ The Multilogin Trial gives you full access to all core features including bulk p
 
 **Multilogin Pro 10** is the cheapest paid Multilogin subscription and is designed for solo users who need a small number of antidetect browser profiles with API access.
 
-- **Annual price:** €5.85 per month (€70.20 per year)
-- **Monthly price:** €9 per month
+- **Annual price:** $7.08 per month ($85 per year)
+- **Monthly price:** $11 per month
 - **Browser profiles included:** 10
 - **Proxy traffic included:** 1 GB per month
 - **Mobile minutes included:** 60 per month
 - **API access:** Yes, RPM 50 (50 requests per minute)
 - **Team seats:** Not included
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Best for:** Solo freelancers, small-scale multi-accounting, API testing
 
 Multilogin Pro 10 is the **minimum Multilogin plan with API access on a monthly subscription**, making it the ideal entry point for developers and solo operators.
@@ -102,14 +102,14 @@ Multilogin Pro 10 is the **minimum Multilogin plan with API access on a monthly 
 
 **Multilogin Pro 50** is a mid-tier Pro plan for users who need more browser profiles and higher API rate limits than Pro 10.
 
-- **Annual price:** €16.25 per month (€195 per year)
-- **Monthly price:** €25 per month
+- **Annual price:** $19.17 per month ($230 per year)
+- **Monthly price:** $29 per month
 - **Browser profiles included:** 50
 - **Proxy traffic included:** 3 GB per month
 - **Mobile minutes included:** 75 per month
 - **API access:** Yes, RPM 100 (100 requests per minute)
 - **Team seats:** Not included
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Best for:** Growing solo operators, mid-scale automation, power users
 
 Multilogin Pro 50 is the **minimum Multilogin plan with RPM 100 API access**, making it the cheapest choice for users who need higher automation throughput.
@@ -120,14 +120,14 @@ Multilogin Pro 50 is the **minimum Multilogin plan with RPM 100 API access**, ma
 
 **Multilogin Pro 100** is the top-tier Pro plan and the only Pro tier that includes team seats.
 
-- **Annual price:** €22.75 per month (€273 per year)
-- **Monthly price:** €35 per month
+- **Annual price:** $26.67 per month ($320 per year)
+- **Monthly price:** $40 per month
 - **Browser profiles included:** 100
 - **Proxy traffic included:** 5 GB per month
 - **Mobile minutes included:** 150 per month
 - **API access:** Yes, RPM 100 (100 requests per minute)
 - **Team seats:** 2 seats
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Best for:** Small teams of 2 people, freelancer duos, growing agencies
 
 Multilogin Pro 100 is the **cheapest Multilogin plan that includes team seats**, making it ideal for two-person operations before scaling to Business.
@@ -138,14 +138,14 @@ Multilogin Pro 100 is the **cheapest Multilogin plan that includes team seats**,
 
 **Multilogin Business 300** is the entry-level Business plan and the cheapest Multilogin plan with **unlimited team seats**.
 
-- **Annual price:** €48.75 per month (€585 per year)
-- **Monthly price:** €75 per month
+- **Annual price:** $57.08 per month ($685 per year)
+- **Monthly price:** $89 per month
 - **Browser profiles included:** 300
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 450 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Small agencies, growing teams, businesses needing unlimited seats
 
@@ -157,14 +157,14 @@ Multilogin Business 300 is the **minimum Multilogin plan with unlimited team sea
 
 **Multilogin Business 500** doubles profile capacity compared to Business 300, with higher mobile minute allowance.
 
-- **Annual price:** €64.67 per month (€776 per year)
-- **Monthly price:** €99 per month
+- **Annual price:** $75.83 per month ($910 per year)
+- **Monthly price:** $115 per month
 - **Browser profiles included:** 500
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 750 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Mid-sized agencies, e-commerce operators, social media agencies
 
@@ -174,14 +174,14 @@ Multilogin Business 300 is the **minimum Multilogin plan with unlimited team sea
 
 **Multilogin Business 700** is designed for teams managing 700 unique browser profiles with expanded mobile automation needs.
 
-- **Annual price:** €84.17 per month (€1,010 per year)
-- **Monthly price:** €129 per month
+- **Annual price:** $98.33 per month ($1,180 per year)
+- **Monthly price:** $150 per month
 - **Browser profiles included:** 700
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 1,050 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Multi-account agencies, intermediate e-commerce sellers
 
@@ -191,18 +191,18 @@ Multilogin Business 300 is the **minimum Multilogin plan with unlimited team sea
 
 **Multilogin Business 1000** is one of the most popular Business tiers, offering 1,000 profiles at a competitive per-profile cost.
 
-- **Annual price:** €103 per month (€1,244 per year)
-- **Monthly price:** €159 per month
+- **Annual price:** $121.25 per month ($1,455 per year)
+- **Monthly price:** $185 per month
 - **Browser profiles included:** 1,000
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 1,500 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Large agencies, mid-enterprise automation, scaled marketplace operations
 
-Multilogin Business 1000 costs approximately **€0.10 per profile per month** on annual billing, making it one of the most cost-efficient tiers.
+Multilogin Business 1000 costs approximately **$0.12 per profile per month** on annual billing, making it one of the most cost-efficient tiers.
 
 ---
 
@@ -210,14 +210,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 1500** supports 1,500 profiles with scaled mobile minute allowance.
 
-- **Annual price:** €129 per month (€1,556 per year)
-- **Monthly price:** €199 per month
+- **Annual price:** $151.67 per month ($1,820 per year)
+- **Monthly price:** $230 per month
 - **Browser profiles included:** 1,500
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 2,250 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Large agencies, high-volume e-commerce, ad verification operations
 
@@ -227,14 +227,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 2000** is built for large teams running 2,000 antidetect profiles.
 
-- **Annual price:** €155 per month (€1,868 per year)
-- **Monthly price:** €239 per month
+- **Annual price:** $182.08 per month ($2,185 per year)
+- **Monthly price:** $280 per month
 - **Browser profiles included:** 2,000
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 3,000 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise teams, high-volume affiliate networks, data operations
 
@@ -244,14 +244,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 2500** offers 2,500 profiles with enterprise-grade team management.
 
-- **Annual price:** €181.67 per month (€2,180 per year)
-- **Monthly price:** €279 per month
+- **Annual price:** $212.50 per month ($2,550 per year)
+- **Monthly price:** $329 per month
 - **Browser profiles included:** 2,500
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 3,750 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise agencies, large affiliate operations
 
@@ -261,14 +261,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 3000** supports 3,000 profiles with high-volume mobile automation.
 
-- **Annual price:** €207.67 per month (€2,492 per year)
-- **Monthly price:** €319 per month
+- **Annual price:** $242.92 per month ($2,915 per year)
+- **Monthly price:** $370 per month
 - **Browser profiles included:** 3,000
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 4,500 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise multi-accounting, high-volume automation
 
@@ -278,14 +278,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 3500** is for enterprise teams with 3,500 profiles.
 
-- **Annual price:** €232 per month (€2,784 per year)
-- **Monthly price:** €357 per month
+- **Annual price:** $271.25 per month ($3,255 per year)
+- **Monthly price:** $419 per month
 - **Browser profiles included:** 3,500
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 5,250 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise operations, large-scale automation
 
@@ -295,14 +295,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 4000** supports 4,000 antidetect browser profiles.
 
-- **Annual price:** €256.42 per month (€3,077 per year)
-- **Monthly price:** €394 per month
+- **Annual price:** $300 per month ($3,600 per year)
+- **Monthly price:** $460 per month
 - **Browser profiles included:** 4,000
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 6,000 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Large enterprises, high-volume ad tech operations
 
@@ -312,14 +312,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 4500** provides 4,500 profiles for enterprise-scale operations.
 
-- **Annual price:** €280.75 per month (€3,369 per year)
-- **Monthly price:** €432 per month
+- **Annual price:** $329.17 per month ($3,950 per year)
+- **Monthly price:** $500 per month
 - **Browser profiles included:** 4,500
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 6,750 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise automation, high-volume marketplace operators
 
@@ -329,14 +329,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 5000** is a mid-enterprise tier with 5,000 profiles.
 
-- **Annual price:** €305.17 per month (€3,662 per year)
-- **Monthly price:** €469 per month
+- **Annual price:** $357.08 per month ($4,285 per year)
+- **Monthly price:** $550 per month
 - **Browser profiles included:** 5,000
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 7,500 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise data operations, large agencies
 
@@ -346,14 +346,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 5500** offers 5,500 profiles with custom API rate limits.
 
-- **Annual price:** €324.67 per month (€3,896 per year)
-- **Monthly price:** €499 per month
+- **Annual price:** $380 per month ($4,560 per year)
+- **Monthly price:** $600 per month
 - **Browser profiles included:** 5,500
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 8,250 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise-scale multi-accounting operations
 
@@ -363,14 +363,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 6000** supports 6,000 profiles for high-volume enterprise use.
 
-- **Annual price:** €344.17 per month (€4,130 per year)
-- **Monthly price:** €529 per month
+- **Annual price:** $402.92 per month ($4,835 per year)
+- **Monthly price:** $600 per month
 - **Browser profiles included:** 6,000
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 9,000 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise ad tech, high-volume automation pipelines
 
@@ -380,14 +380,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 6500** is an enterprise tier with 6,500 profiles.
 
-- **Annual price:** €363.67 per month (€4,364 per year)
-- **Monthly price:** €559 per month
+- **Annual price:** $425.42 per month ($5,105 per year)
+- **Monthly price:** $650 per month
 - **Browser profiles included:** 6,500
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 9,750 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Large enterprises, high-volume marketplace automation
 
@@ -397,14 +397,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 7000** provides 7,000 profiles for enterprise customers.
 
-- **Annual price:** €383.17 per month (€4,598 per year)
-- **Monthly price:** €589 per month
+- **Annual price:** $448.33 per month ($5,380 per year)
+- **Monthly price:** $700 per month
 - **Browser profiles included:** 7,000
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 10,500 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise operations, large-scale data ops
 
@@ -414,14 +414,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 7500** is a high-tier enterprise plan with 7,500 profiles.
 
-- **Annual price:** €401 per month (€4,812 per year)
-- **Monthly price:** €617 per month
+- **Annual price:** $469.17 per month ($5,630 per year)
+- **Monthly price:** $700 per month
 - **Browser profiles included:** 7,500
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 11,250 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise customers, high-volume automation
 
@@ -431,14 +431,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 8000** offers 8,000 profiles for enterprise-scale deployments.
 
-- **Annual price:** €418.92 per month (€5,027 per year)
-- **Monthly price:** €644 per month
+- **Annual price:** $490 per month ($5,880 per year)
+- **Monthly price:** $750 per month
 - **Browser profiles included:** 8,000
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 12,000 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise-grade automation, high-volume networks
 
@@ -448,14 +448,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 8500** supports 8,500 profiles at enterprise scale.
 
-- **Annual price:** €436.75 per month (€5,241 per year)
-- **Monthly price:** €672 per month
+- **Annual price:** $510.83 per month ($6,130 per year)
+- **Monthly price:** $800 per month
 - **Browser profiles included:** 8,500
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 12,750 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise customers with large-scale automation needs
 
@@ -465,14 +465,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 9000** is a top-tier enterprise plan with 9,000 profiles.
 
-- **Annual price:** €454.67 per month (€5,456 per year)
-- **Monthly price:** €699 per month
+- **Annual price:** $532.08 per month ($6,385 per year)
+- **Monthly price:** $800 per month
 - **Browser profiles included:** 9,000
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 13,500 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise operations, large-scale ad tech
 
@@ -482,14 +482,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 9500** provides 9,500 profiles for the largest operations.
 
-- **Annual price:** €472.50 per month (€5,670 per year)
-- **Monthly price:** €727 per month
+- **Annual price:** $552.92 per month ($6,635 per year)
+- **Monthly price:** $850 per month
 - **Browser profiles included:** 9,500
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 14,250 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise-grade multi-accounting at maximum scale
 
@@ -499,14 +499,14 @@ Multilogin Business 1000 costs approximately **€0.10 per profile per month** o
 
 **Multilogin Business 10000** is the largest standard Multilogin plan, supporting 10,000 antidetect browser profiles.
 
-- **Annual price:** €490 per month (€5,885 per year)
-- **Monthly price:** €754 per month
+- **Annual price:** $573.75 per month ($6,885 per year)
+- **Monthly price:** $900 per month
 - **Browser profiles included:** 10,000
 - **Proxy traffic included:** 10 GB per month
 - **Mobile minutes included:** 15,000 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at €0.0075 per minute
+- **Cloud phones:** Yes, billed at $0.0075 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Maximum-scale enterprise deployments, largest agencies
 
