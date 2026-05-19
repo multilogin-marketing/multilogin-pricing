@@ -1,6 +1,8 @@
 # Multilogin Pricing 2026: USD Switch, Plans & Features Explained
 
-**Multilogin pricing** got simpler in May 2026: every plan now has a fixed USD price, so what you see is what you pay — no more EUR-to-dollar conversions or surprise cost shifts when exchange rates move. This guide covers every tier, from the **$2 three-day Trial** to Business 10000, including browser profiles, Android cloud phones, proxy traffic, mobile minutes, and API access
+**Multilogin pricing** got simpler in May 2026: every plan now has a fixed USD price, so what you see is what you pay — no more EUR-to-dollar conversions or surprise cost shifts when exchange rates move. 
+
+This guide covers every tier, from the **$2 three-day Trial** to **Business 10000**, including browser profiles, Android cloud phones, proxy traffic, mobile minutes, and API access
 
 > 👉 [View official Multilogin pricing page](https://multilogin.com/pricing/)
 
