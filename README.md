@@ -524,4 +524,4 @@ Multilogin Business 10000 is the **most comprehensive Multilogin subscription av
 
 ---
 
-*Current pricing as of April 2026. Prices and features are subject to change — always verify on the [official Multilogin pricing page](https://multilogin.com/pricing/).*
+*Current pricing as of May 2026. Prices and features are subject to change — always verify on the [official Multilogin pricing page](https://multilogin.com/pricing/).*
