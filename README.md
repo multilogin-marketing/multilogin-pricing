@@ -4,8 +4,8 @@
 
 This guide covers every tier, from the **$2 three-day Trial** to **Business 10000**, including browser profiles, Android cloud phones, proxy traffic, mobile minutes, and API access
 
-<p align="center">
-  <img src="https://multilogin.com/wp-content/uploads/2026/06/2026-06-01_10-36-40.png" width="50%" alt="Multilogin Pricing 2026">
+<p>
+  <img src="https://multilogin.com/wp-content/uploads/2026/06/2026-06-01_10-36-40.png" width="75%" alt="Multilogin Pricing 2026">
 </p>
 
 
