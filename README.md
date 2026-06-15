@@ -65,7 +65,7 @@ Key pricing principles:
 
 | Add-on          | Rate                  | Notes                                                   |
 | --------------- | --------------------- | ------------------------------------------------------- |
-| Proxy Traffic   | **$3 per 1 GB**       | Premium residential proxies. Unused traffic rolls over. |
+| Proxy Traffic   | **$3.5 per 1 GB**       | Premium residential proxies. Unused traffic rolls over. |
 | Mobile Minutes  | **$0.011 per minute**| Pay only for time used. Unused minutes roll over.       |
 
 > ⏱ **Cloud phones** are billed separately at **$0.011 per minute**. The timer starts when you launch the device and stops when you press Stop.
