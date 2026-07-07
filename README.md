@@ -66,9 +66,9 @@ Key pricing principles:
 | Add-on          | Rate                  | Notes                                                   |
 | --------------- | --------------------- | ------------------------------------------------------- |
 | Proxy Traffic   | **$3.5 per 1 GB**       | Premium residential proxies. Unused traffic rolls over. |
-| Mobile Minutes  | **$0.0073 per minute**| Pay only for time used. Unused minutes roll over.       |
+| Mobile Minutes  | **$0.011 per minute**| Pay only for time used. Unused minutes roll over.       |
 
-> ⏱ **Cloud phones** are billed separately at **$0.0073 per minute**. The timer starts when you launch the device and stops when you press Stop.
+> ⏱ **Cloud phones** are billed separately at **$0.011 per minute**. The timer starts when you launch the device and stops when you press Stop.
 
 ---
 
@@ -82,7 +82,7 @@ Key pricing principles:
 - **Mobile minutes included:** 60 (one-time allowance)
 - **API access:** Yes
 - **Team seats:** Not included
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 
 The Multilogin Trial gives you full access to all core features including bulk profile operations, API automation, and Android cloud phones. It is the cheapest way to evaluate Multilogin before choosing a paid subscription.
 
@@ -99,7 +99,7 @@ The Multilogin Trial gives you full access to all core features including bulk p
 - **Mobile minutes included:** 60 per month
 - **API access:** Yes, RPM 50 (50 requests per minute)
 - **Team seats:** Not included
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Best for:** Solo freelancers, small-scale multi-accounting, API testing
 
 Multilogin Pro 10 is the **minimum Multilogin plan with API access on a monthly subscription**, making it the ideal entry point for developers and solo operators.
@@ -117,7 +117,7 @@ Multilogin Pro 10 is the **minimum Multilogin plan with API access on a monthly 
 - **Mobile minutes included:** 75 per month
 - **API access:** Yes, RPM 100 (100 requests per minute)
 - **Team seats:** Not included
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Best for:** Growing solo operators, mid-scale automation, power users
 
 Multilogin Pro 50 is the **minimum Multilogin plan with RPM 100 API access**, making it the cheapest choice for users who need higher automation throughput.
@@ -135,7 +135,7 @@ Multilogin Pro 50 is the **minimum Multilogin plan with RPM 100 API access**, ma
 - **Mobile minutes included:** 150 per month
 - **API access:** Yes, RPM 100 (100 requests per minute)
 - **Team seats:** 2 seats
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Best for:** Small teams of 2 people, freelancer duos, growing agencies
 
 Multilogin Pro 100 is the **cheapest Multilogin plan that includes team seats**, making it ideal for two-person operations before scaling to Business.
@@ -153,7 +153,7 @@ Multilogin Pro 100 is the **cheapest Multilogin plan that includes team seats**,
 - **Mobile minutes included:** 450 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Small agencies, growing teams, businesses needing unlimited seats
 
@@ -172,7 +172,7 @@ Multilogin Business 300 is the **minimum Multilogin plan with unlimited team sea
 - **Mobile minutes included:** 750 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Mid-sized agencies, e-commerce operators, social media agencies
 
@@ -189,7 +189,7 @@ Multilogin Business 300 is the **minimum Multilogin plan with unlimited team sea
 - **Mobile minutes included:** 1,050 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Multi-account agencies, intermediate e-commerce sellers
 
@@ -206,7 +206,7 @@ Multilogin Business 300 is the **minimum Multilogin plan with unlimited team sea
 - **Mobile minutes included:** 1,500 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Large agencies, mid-enterprise automation, scaled marketplace operations
 
@@ -225,7 +225,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 2,250 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Large agencies, high-volume e-commerce, ad verification operations
 
@@ -242,7 +242,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 3,000 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise teams, high-volume affiliate networks, data operations
 
@@ -259,7 +259,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 3,750 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise agencies, large affiliate operations
 
@@ -276,7 +276,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 4,500 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise multi-accounting, high-volume automation
 
@@ -293,7 +293,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 5,250 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise operations, large-scale automation
 
@@ -310,7 +310,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 6,000 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Large enterprises, high-volume ad tech operations
 
@@ -327,7 +327,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 6,750 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise automation, high-volume marketplace operators
 
@@ -344,7 +344,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 7,500 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise data operations, large agencies
 
@@ -361,7 +361,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 8,250 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise-scale multi-accounting operations
 
@@ -378,7 +378,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 9,000 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise ad tech, high-volume automation pipelines
 
@@ -395,7 +395,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 9,750 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Large enterprises, high-volume marketplace automation
 
@@ -412,7 +412,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 10,500 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise operations, large-scale data ops
 
@@ -429,7 +429,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 11,250 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise customers, high-volume automation
 
@@ -446,7 +446,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 12,000 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise-grade automation, high-volume networks
 
@@ -463,7 +463,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 12,750 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise customers with large-scale automation needs
 
@@ -480,7 +480,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 13,500 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise operations, large-scale ad tech
 
@@ -497,7 +497,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 14,250 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Enterprise-grade multi-accounting at maximum scale
 
@@ -514,7 +514,7 @@ Multilogin Business 1000 costs approximately **$0.12 per profile per month** on 
 - **Mobile minutes included:** 15,000 per month
 - **API access:** Yes, RPM 100 with custom rate limits available
 - **Team seats:** Unlimited
-- **Cloud phones:** Yes, billed at $0.0073 per minute
+- **Cloud phones:** Yes, billed at $0.011 per minute
 - **Advanced features:** Proxy and profile templates, advanced team management
 - **Best for:** Maximum-scale enterprise deployments, largest agencies
 
